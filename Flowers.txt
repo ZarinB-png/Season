@@ -1,1 +1,2 @@
 rose, lily, lotus, jasmine, daisy
+Rose is red.
